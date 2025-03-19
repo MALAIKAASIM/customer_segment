@@ -1,1 +1,1 @@
-# customer_segment
+The notebook aims to segment customers based on their Annual Income and Spending Score using K-Means Clustering. This helps businesses identify different customer groups for targeted marketing strategies.
